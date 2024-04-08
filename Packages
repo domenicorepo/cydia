@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.domenicorepo.neofetch.deb
+Version: 1.0
+Section: Tweaks
+Maintainer: Domenico <thusgappy@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.domenicorepo.neofetch.deb
+Size: 90340
+MD5sum: bc0afbdd8d8316a73259efb648621718
+Description: This is the NeoFetch tweak package, use MTerminal then run neofetch
+Name: NeoFetch
+Author: Domenico <thusgappy@gmail.com>
+Depiction: https://domenicorepo.github.io/cydia/depictions/NeoFetch

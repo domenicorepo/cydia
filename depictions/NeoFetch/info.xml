@@ -1,0 +1,24 @@
+<package>
+	<id>com.domenicorepo.neofetch</id>
+	<name>NeoFetch</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is the NeoFetch tweak package, use MTerminal then run neofetch.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<version>1.0</version>
+	</changelog>
+	<links></links>
+</package>
