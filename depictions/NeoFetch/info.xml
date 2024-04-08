@@ -6,9 +6,6 @@
 		<firmware>
 			<miniOS>9.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
@@ -20,5 +17,4 @@
 		<change>Initial release</change>
 		<version>1.0</version>
 	</changelog>
-	<links></links>
 </package>
