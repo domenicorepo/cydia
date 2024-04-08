@@ -1,0 +1,20 @@
+<package>
+	<id>com.domenicorepo.neofetch</id>
+	<name>NeoFetch</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>MTerminal</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<version>1.0</version>
+	</changelog>
+</package>

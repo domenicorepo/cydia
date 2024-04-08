@@ -38,3 +38,16 @@ Description: This is the NeoFetch tweak package, use MTerminal then run neofetch
 Name: NeoFetch
 Author: Domenico <thusgappy@gmail.com>
 Depiction: https://domenicorepo.github.io/cydia/depictions/NeoFetch
+
+Package: com.domenicorepo.mterminal.deb
+Version: 1.0
+Section: Apps
+Maintainer: Domenico <thusgappy@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.domenicorepo.mterminal.deb
+Size: 107204
+MD5sum: ca89ef2a021eb532ab64a3f584d4c9d4
+Description: MTerminal App
+Name: Terminal
+Author: Domenico <thusgappy@gmail.com>
+Depiction: https://domenicorepo.github.io/cydia/depictions/MTerminal
