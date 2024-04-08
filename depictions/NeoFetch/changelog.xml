@@ -1,11 +1,11 @@
 <changelog>
 	<changes>
-		<version>1.1</version>
+		<version>1.0</version>
 		<change>Second release</change>
-		<change>update-neofetch</change>
+		<change>Works on iOS 10+</change>
 	</changes>
 	<changes>
-		<version>1.0</version>
+		<version>1.0.0-1</version>
 		<change>Initial Release</change>
 	</changes>
 </changelog>

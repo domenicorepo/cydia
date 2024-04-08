@@ -4,17 +4,40 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a NeoFetch package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>This is the NeoFetch tweak package, use MTerminal then run neofetch.</description>
+		<description>Run with terminal.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>test</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>test</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
-		<version>1.0</version>
+		<change>Second release</change>
+		<change>Works on iOS10+</change>
 	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
