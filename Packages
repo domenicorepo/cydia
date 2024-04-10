@@ -9,7 +9,8 @@ MD5sum: bc0afbdd8d8316a73259efb648621718
 Description: This is the NeoFetch tweak package, use MTerminal then run neofetch
 Name: NeoFetch
 Author: Domenico <thusgappy@gmail.com>
-Depiction: https://domenicorepo.github.io/cydia/depictions/neofetch.deb
+Depiction: /depictions/neofetch.deb
+Depends: debs/com.domenicorepo.mterminal.deb
 
 Package: com.domenicorepo.mterminal.deb
 Version: 1.0
@@ -22,4 +23,4 @@ MD5sum: ca89ef2a021eb532ab64a3f584d4c9d4
 Description: MTerminal App
 Name: Terminal
 Author: Domenico <thusgappy@gmail.com>
-Depiction: https://domenicorepo.github.io/cydia/depictions/mterminal.deb
+Depiction: /depictions/mterminal.deb
