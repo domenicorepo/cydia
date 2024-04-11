@@ -10,7 +10,7 @@ Description: This is the NeoFetch tweak package, use MTerminal then run neofetch
 Name: NeoFetch
 Author: Domenico <thusgappy@gmail.com>
 Depiction: /depictions/neofetch.deb
-Depends: debs/com.domenicorepo.mterminal.deb
+Depends: /debs/com.domenicorepo.mterminal.deb
 
 Package: com.domenicorepo.mterminal.deb
 Version: 1.0
